@@ -1,0 +1,4 @@
+Socket successfully created..
+Socket successfully bindedserver:2 4 5 6 -1 -1 7 20 30 80 90 -1 -1 -1 -1 -1 -1 -1 -1
+server:5 6 10 2 3 -1 -1 -1 sent_back:35bySocket successfully created..
+socket bind failed...
