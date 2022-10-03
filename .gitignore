@@ -1,0 +1,15 @@
+# Generated native binaries
+client
+tracker
+tt
+client_test/client
+client_test/a.out
+server_test/server
+server_test/s
+server_test/a
+server_test/a.out
+
+# Local build outputs
+*.o
+*.out
+*.exe
