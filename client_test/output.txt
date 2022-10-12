@@ -1,6 +1,0 @@
-Socket successfully created..
-connected to the server..
-[reading(1) data] from to.txt
-size:0
-size:0
-hello
